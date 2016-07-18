@@ -1,0 +1,6 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\AplikasiATM\AplikasiATM\bin\Debug\AplikasiATM.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\AplikasiATM\AplikasiATM\bin\Debug\AplikasiATM.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\AplikasiATM\AplikasiATM\bin\Debug\AplikasiATM.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\AplikasiATM\AplikasiATM\obj\Debug\AplikasiATM.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\AplikasiATM\AplikasiATM\obj\Debug\AplikasiATM.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\AplikasiATM\AplikasiATM\obj\Debug\AplikasiATM.pdb
